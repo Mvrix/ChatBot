@@ -3,7 +3,7 @@
 
 <img src="https://warehouse-camo.ingress.cmh1.psfhosted.org/f7e4e0367997a5990b351ec108371cf890e50e98/68747470733a2f2f692e696d6775722e636f6d2f623353436d47542e706e67" alt="exemplo imagem">
 
-> Criação de ChatBot simples em puro Python, usando Jupyter e Spacy
+> Criação de ChatBot simples em Python, usando Jupyter e Spacy
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
