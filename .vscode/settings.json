@@ -1,0 +1,6 @@
+{
+    "python.pythonPath" : "venv\E:\ARQUIVOS\Documentos\python\chatbot",
+    "code-runner.executorMap": {
+        "python": "python -u",
+    }
+}
