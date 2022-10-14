@@ -9,7 +9,7 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Tarefa 1 - Lista de conversa
-- [ ] Tarefa 2 - Lista de argumentos matematicos
+- [x] Tarefa 2 - Lista de argumentos matematicos
 - [ ] Tarefa 3 - Usando SQL
 
 
